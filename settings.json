@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Steinersmp.aternos.me",
+    "ip": "Steinersmp.aternos.me:35566",
     "port": 35566,
     "version": "1.21.1"
   },
