@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "tpbot123",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Steinersmp.aternos.me:35566",
