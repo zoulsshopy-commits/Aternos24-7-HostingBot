@@ -7,7 +7,8 @@
   },
   "server": {
     "ip":"steinersmp-JbwB.aternos.me",
-    "port":44157,
+    "port":44
+    157,
     "version":"1.21.11"
   },
   "position": {
